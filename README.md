@@ -11,7 +11,7 @@ After we apply this filter we can see the changes on the table, but still we can
 
 **2. City**
 Now that we have applied the city, we can see this is the only event that has happened in this city according to the data. 
-<img src="https://github.com/carolinamedina26/UFOs/blob/main/static/images/city_filter.png"
+<img src="https://github.com/carolinamedina26/UFOs/blob/main/static/images/city_filter.png">
 
 # Summary
 The drawback with this webpage is the date filter because is a exact mach and those not have the flexibility to differentiate 1/1/2010 from 01/01/2010 and this may generate confusion to the user, this can be easily fix a changing the rigidity of the date filter, another recommendation could be the creation of a to constantly update data on the website. 
