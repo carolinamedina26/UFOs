@@ -6,8 +6,8 @@ In this project we will take a closer look to the famous town of McMinnville, Or
 The filters enables the users to input information to redefine their search, for example, to search for the event that happened in 1/1/2010 at boca raton, Florida we can input this information in the filters bar: 
 
 **1. Date input**
-
-
+static/images/date_filter.png
+<img src="https://github.com/carolinamedina26/UFOs/blob/main/static/images/date_filter.png" width="400" height="790">
 **2. City**
 
 # Summary
