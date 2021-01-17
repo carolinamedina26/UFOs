@@ -7,7 +7,7 @@ The filters enables the users to input information to redefine their search, for
 
 **1. Date input**
 static/images/date_filter.png
-<img src="https://github.com/carolinamedina26/UFOs/blob/main/static/images/date_filter.png" width="400" height="790">
+<img src="https://github.com/carolinamedina26/UFOs/blob/main/static/images/date_filter.png" >
 **2. City**
 
 # Summary
