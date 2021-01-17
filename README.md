@@ -14,4 +14,4 @@ Now that we have applied the city, we can see this is the only event that has ha
 <img src="https://github.com/carolinamedina26/UFOs/blob/main/static/images/city_filter.png">
 
 # Summary
-The drawback with this webpage is the date filter because is a exact mach and those not have the flexibility to differentiate 1/1/2010 from 01/01/2010 and this may generate confusion to the user, this can be easily fix a changing the rigidity of the date filter, another recommendation could be the creation of a to constantly update data on the website. 
+The drawback with this webpage is the date filter because is a exact mach and those not have the flexibility to differentiate 1/1/2010 from 01/01/2010 and this may generate confusion to the user, this can be easily fix a changing the rigidity of the date filter, another recommendation could be use our previous knowledge of web scraping to constantly update the data on the website. 
