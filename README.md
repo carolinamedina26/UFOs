@@ -7,7 +7,8 @@ The filters enables the users to input information to redefine their search, for
 
 **1. Date input**
 
-**2. City **
+
+**2. City**
 
 # Summary
 The drawback with this webpage is the date filter beacuse is a extact macht and those not have the flexibility to differeciate 1/1/2010 from 01/01/2010 and this may generate confusion to the user, this can be easyly fix a changing the rigidity of the date filter, another recommendation could be the creation of a to contansly update data on the website. 
